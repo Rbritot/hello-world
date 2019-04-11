@@ -1,5 +1,5 @@
 # hello-world
-Mi primer
-aprendiendo a programar
-el futoro esta aqui y ahora
-Blockchain
+Mi primer programa
+Estoy aprendiendo a programar
+el futuro esta aqui y ahora
+es Blockchain
